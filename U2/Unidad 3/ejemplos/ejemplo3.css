@@ -1,0 +1,29 @@
+p{
+    color: red;
+}
+h2{
+    text-transform: uppercase;
+    background-color: aqua;
+}
+/*COMENTARIO*/
+h1{
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 50px;
+}
+.destacados{
+    font-weight: bold;
+    font-size: 40px;
+}
+#rojo{
+    background-color: red;
+    width: 250px;
+    height: 250px;
+    color: white;
+    margin-bottom: 50px;
+    margin-left: 100px;
+    border: 2px solid black;
+    padding: 20px;
+    box-sizing: border-box; /*va de la mano de padding para que no se grande la caja*/
+    
+}
